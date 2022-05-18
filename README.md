@@ -8,10 +8,13 @@
 - 👯  Networking: I'm looking to collaborate with any UI Designer or Backend Developer..
 - 💬  2022 goals: scale up alpaca account to $40,000 this year with self performing custom trading tools.
 - 😄  Pronoun: I'm a dude, lol.
-- ⚡  Fun fact: occasional guitar player, enjoy classical Zelda Sonatas with the piano.
+- ⚡  Fun fact: occasional guitar player, enjoy Zelda Sonatas with classical piano-play.
 -->
 <!-- 📫 How to reach me -->
+
+## How To reach me
 <p align="left">
+  <a href="https://twitter.com/thearch08444154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thearch08444154" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abraham-mirambeaux-3a1617164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abraham-mirambeaux-3a1617164" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codepen.io/ace7787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codepen.io/ace7787" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/abem7787/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abem7787/" height="30" width="40" /></a>
