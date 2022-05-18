@@ -3,12 +3,12 @@
 
 ### Hi there 👋 I'm Dev Abe, crypto swing trader and developer, always learning.  
 
-- 🔭 I'm currently working on a crypto trading bot.
-- 🌱 I'm learning TypeScript.
-- 👯 I'm looking to collaborate with any UI Designer or Backend Developer..
-- 💬 2022 goals: to scale up my alpaca account to $40,000 with custom algo trading tools.
-- 😄 I'm a dude lol.
-- ⚡ Fun fact: occasional guitar player, enjoy classical Zelda Sonatas with the piano.
+- 🔭  Working on: I'm currently working on a crypto trading bot.
+- 🌱  Learning: I'm learning TypeScript.
+- 👯  Networking: I'm looking to collaborate with any UI Designer or Backend Developer..
+- 💬  2022 goals: to scale up my alpaca account to $40,000 with custom algo trading tools.
+- 😄  Pronoun: I'm a dude, lol.
+- ⚡  Fun fact: occasional guitar player, enjoy classical Zelda Sonatas with the piano.
 -->
 <!-- 📫 How to reach me -->
 <p align="left">
