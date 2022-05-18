@@ -13,7 +13,7 @@
 </html>
 
 
-### Hi there 👋 I'm Dev Abe, crypto swing trader and developer, always learning, and enjoy teaching those who like to learn.  
+### Hi there 👋 I'm Dev Abe, crypto swing trader and developer, always learning.  
 
 - 🔭 I'm currently working on a crypto trading bot.
 - 🌱 I'm learning TypeScript.
