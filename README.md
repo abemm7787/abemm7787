@@ -6,7 +6,7 @@
 - 🔭  Working on: I'm currently working on a crypto trading bot.
 - 🌱  Learning: I'm learning TypeScript.
 - 👯  Networking: I'm looking to collaborate with any UI Designer or Backend Developer..
-- 💬  2022 goals: to scale up my alpaca account to $40,000 with custom algo trading tools.
+- 💬  2022 goals: scale up alpaca account to $40,000 with custom algo trading tools.
 - 😄  Pronoun: I'm a dude, lol.
 - ⚡  Fun fact: occasional guitar player, enjoy classical Zelda Sonatas with the piano.
 -->
