@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile+views&color=129e00&style=plastic" alt="photo"> </img> </p>
 
 
-### Hi there 👋 I'm Dev Abe, crypto swing trader and developer, always learning.  
+### Hey there 👋 I'm Dev Abe, crypto swing trader and developer, always learning.  
 
 - 🔭  Working on: I'm currently designing a crypto trading bot.
 - 🌱  Learning: I'm learning TypeScript.
