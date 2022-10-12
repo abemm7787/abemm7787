@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @abemm7787
+- 👀 I’m interested in Building apps ...
+- 🌱 I’m currently learning the little things ...
+- 📫 How to reach me email...
+
+<!---
+abemm7787/abemm7787 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
